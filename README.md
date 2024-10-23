@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Nadeesh 👋
 
-<!--
-**Nadeesh-Malaka/Nadeesh-Malaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A passionate developer from Sri Lanka
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [SkillSwap Platform](https://github.com/your-repo)
+- 🌱 I’m currently learning MERN stack
+- 💬 Ask me about React, Laravel, or JavaScript
+- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
+- ⚡ Fun fact: I love creating educational content for YouTube
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools:
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### GitHub Stats:
+![Nadeesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
