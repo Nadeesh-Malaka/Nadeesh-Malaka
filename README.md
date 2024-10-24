@@ -27,10 +27,19 @@
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
-<a href="https://linkedin.com/in/nadeesh-chathuranga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nadeesh-chathuranga" height="30" width="40" /></a>
-<a href="https://fb.com/nadeesh.malaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nadeesh.malaka" height="30" width="40" /></a>
-<a href="https://medium.com/@nadeesh.malaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nadeesh.malaka" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/nadeesh creation" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nadeesh creation" height="30" width="40" /></a>
+
+<div align="center" class="icons-social" style="margin-left: 10px;">
+    <a style="margin-left: 10px;" target="_blank" href="https://linkedin.com/in/nadeesh-chathuranga/">
+        <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+    <a style="margin-left: 10px;" target="_blank" href="https://github.com/Nadeesh-Malaka">
+        <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+    <a style="margin-left: 10px;" target="_blank" href="https://medium.com/@nadeesh.malaka">
+        <img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram.png"></a>
+    <a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/@NadeeshCreation">
+        <img src="https://img.icons8.com/doodle/1x/youtube--v2.png"></a>
+    <a style="margin-left: 10px;" target="_blank" href="https://www.facebook.com/nadeesh.malaka">
+        <img src="https://img.icons8.com/doodle/40/000000/facebook-new.png"></a>
+</div>
 </p>
 
 ---
