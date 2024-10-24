@@ -5,7 +5,7 @@
 
 ---
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="250" width="350" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
 - 🔭 I’m currently working on **SkillSwap Platform**
@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nadeesh-Malaka](https://github.com/Nadeesh-Malaka)
 
-- 📝 I regularly write articles on [ttps://medium.com/@nadee sh.Malaka](ttps://medium.com/@nadee sh.Malaka)
+- 📝 I regularly write articles on [https://medium.com/@nadeesh.Malaka](https://medium.com/@nadeesh.Malaka)
 
 - 💬 Ask me about **React, Laravel, or JavaScript**
 
