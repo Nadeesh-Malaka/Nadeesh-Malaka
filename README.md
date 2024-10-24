@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nadeesh Malaka</h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Developer+%40Uva+Wellassa+University;ICT+Undergraduate;MERN+Stack+Developer;Event+Coordinator+%40FOSS+Community;Python+Programmer;Tech+Enthusiast;Always+learning+new+things">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Developer+%40Uva+Wellassa+University;ICT+Undergraduate;Competitive+Programmer;Tech+Enthusiast;Always+learning+new+things">
   </a>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=nadeesh-malaka&label=Profile%20views&color=0e75b6&style=flat" alt="nadeesh-malaka" /> </p>
 </p>
-
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nadeesh-malaka&label=Profile%20views&color=0e75b6&style=flat" alt="nadeesh-malaka" /> </p>
 
 ---
 <a target="_blank" align="center">
