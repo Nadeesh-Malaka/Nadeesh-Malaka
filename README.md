@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **Nadeeshmalaka50@gmail.com**
 
--⚡ Fun fact: I love creating vlogs & Educational content for YouTube
+- ⚡ Fun fact: I love creating vlogs & Educational content for YouTube
  
 
 ---
