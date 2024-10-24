@@ -20,6 +20,9 @@
 
 - 📫 How to reach me **Nadeeshmalaka50@gmail.com**
 
+-⚡ Fun fact: I love creating vlogs & Educational content for YouTube
+ 
+
 ---
 
 <h3 align="left">Connect with me:</h3>
