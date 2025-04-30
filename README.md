@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **BuyBuddy-Shopping-Site**
 
-- 🌱 I’m currently learning *Spring Boot**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nadeesh-Malaka](https://github.com/Nadeesh-Malaka)
 
