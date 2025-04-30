@@ -11,9 +11,9 @@
   <img align="right" top="500" height="250" width="350" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working on **SkillSwap Platform**
+- 🔭 I’m currently working on **BuyBuddy-Shopping-Site**
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning *Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nadeesh-Malaka](https://github.com/Nadeesh-Malaka)
 
